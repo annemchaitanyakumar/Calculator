@@ -1,0 +1,17 @@
+button{
+  padding: 15px;
+  border-radius: 15px;
+  margin: 7px;
+}
+button:hover{
+  background-color: aquamarine;
+}
+input{
+  font-size: 30px;
+  border-radius: 10px;
+  margin: 15px;
+  width: 60%;
+}
+*{
+  background-color: antiquewhite;
+}
